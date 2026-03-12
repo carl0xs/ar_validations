@@ -78,7 +78,7 @@ macro_rules! validate_rule {
 #[test]
 fn it_works() {
     let person1 = Person {
-        name: String::from("Carlos Eduardo"),
+        name: String::from("Carlos Henrique"),
         age: 28,
         length: 100.0,
         height: 1.76,
